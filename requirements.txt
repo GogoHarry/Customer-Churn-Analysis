@@ -1,0 +1,6 @@
+pip install joblib
+pip install scikit-learn
+pip install xgboost
+pip install imbalanced-learn
+pip install numpy
+pip install pandas

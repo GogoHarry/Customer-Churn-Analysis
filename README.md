@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![https://github.com/GogoHarry/Customer-Churn-Analysis/blob/main/churn_image.jpeg?raw=true)
+![churn_image](https://github.com/user-attachments/assets/a795dd11-ef10-4d4a-bb75-5583148ca16e)
 
 Customer churn is when customers discontinue their relationship or subscription with a company or service provider. It represents the rate customers stop using a company's products or services within a specific period. Churn is an important business metric as it directly impacts revenue, growth, and customer retention.
 
@@ -25,12 +25,12 @@ The dataset used for this analysis is the customer churn data.csv file containin
 
 ## Feature Engineering
 - Some features were combined to create new ones for model improvement.
-- I carried out the normalization of numerical features to ensure they have a mean of 0 and a standard deviation of 1.
+- Data normalization of numerical features was done to ensure they have a mean of 0 and a standard deviation of 1.
 
 ## Modeling
-I trained various machine learning models including Logistic Regression, K-Nearest Neighbors, Random Forest, XGBoost, AdaBoost, Support Vector Classifier, and Gradient Boosting.
-I then used SMOTE (Synthetic Minority Over-sampling Technique) to handle class imbalance.
-The models were then evaluated using k-fold cross-validation and test set accuracy.
+- Various machine learning models were trained, including Logistic Regression, K-Nearest Neighbors, Random Forest, XGBoost, AdaBoost, Support Vector Classifier, and Gradient Boosting.
+- SMOTE (Synthetic Minority Over-sampling Technique) was used to handle class imbalance.
+- The models were then evaluated using k-fold cross-validation and test set accuracy.
 
 ## Model Evaluation
 Print classification reports and confusion matrices for model performance.

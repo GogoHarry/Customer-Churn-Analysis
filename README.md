@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![image/churn_image.jpeg]
+![https://github.com/GogoHarry/Customer-Churn-Analysis/blob/main/churn_image.jpeg?raw=true)
 
 Customer churn is when customers discontinue their relationship or subscription with a company or service provider. It represents the rate customers stop using a company's products or services within a specific period. Churn is an important business metric as it directly impacts revenue, growth, and customer retention.
 
@@ -64,14 +64,14 @@ The results of the analysis include:
 ## Model Performance
 
 The performance of each model was evaluated using accuracy, cross-validation scores, classification reports, and confusion matrices.
-- Logistic Regression
+- **Logistic Regression**
   - Training Accuracy: 77.615%
   - Test Accuracy: 76.908%
   - Cross-Validation Score: 77.252%
   
 ![image](https://github.com/user-attachments/assets/cb745a1f-6382-4402-ab1e-9a2830f42d8f)
 
-**- K-Nearest Neighbors**
+- **K-Nearest Neighbors**
   - Training Accuracy: 85.878%
   - Test Accuracy: 80.628%
   - Cross-Validation Score: 79.938%
@@ -79,35 +79,35 @@ The performance of each model was evaluated using accuracy, cross-validation sco
 ![image](https://github.com/user-attachments/assets/acf9dbd5-e2d0-4369-a139-6b44cce2d62f)
 
 
-**- Random Forest**
+- **Random Forest**
   - Training Accuracy: 99.855%
   - Test Accuracy: 84.928%
   - Cross-Validation Score: 85.031%
 
 ![image](https://github.com/user-attachments/assets/1bb8b7f4-efec-498c-8180-8e72fd2f2ed3)
 
-**- XGBoost**
+- **XGBoost**
   - Training Accuracy: 94.963%
   - Test Accuracy: 84.300%
   - Cross-Validation Score: 84.847%
 
 ![image](https://github.com/user-attachments/assets/ef650c0e-b2a9-4a5f-aae3-2725038c4004)
 
-**- AdaBoost**
+- **AdaBoost**
   - Training Accuracy: 80.720%
   - Test Accuracy: 80.386%
   - Cross-Validation Score: 80.209%
 
 ![image](https://github.com/user-attachments/assets/11a344b5-024f-431c-88fb-be01d30f9b93)
 
-**- Support Vector Classifier**
+- **Support Vector Classifier**
   - Training Accuracy: 81.191%
   - Test Accuracy: 79.275%
   - Cross-Validation Score: 79.300%
   
   ![image](https://github.com/user-attachments/assets/cda87c1e-07c3-4b90-a1f2-1412dfc2722c)
 
-**- Gradient Boosting**
+- **Gradient Boosting**
   - Training Accuracy: 85.153%
   - Test Accuracy: 83.333%
   - Cross-Validation Score: 83.359%

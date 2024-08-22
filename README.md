@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-![churn_image](https://github.com/user-attachments/assets/a795dd11-ef10-4d4a-bb75-5583148ca16e)
+![Customer_Churn_Prediction_Models_in_Machine_Learning](https://github.com/user-attachments/assets/158dacc2-4782-437f-9de4-5cb064a68f82)
+
 
 Customer churn is when customers discontinue their relationship or subscription with a company or service provider. It represents the rate customers stop using a company's products or services within a specific period. Churn is an important business metric as it directly impacts revenue, growth, and customer retention.
 
@@ -44,7 +45,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ``` bash
-   git clone https://github.com/yourusername/customer-churn-analysis.git
+   git clone https://github.com/GogoHarry/customer-churn-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash

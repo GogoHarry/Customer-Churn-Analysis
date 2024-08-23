@@ -121,7 +121,8 @@ The performance of each model was evaluated using accuracy, cross-validation sco
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the MIT License - See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 Special thanks to the contributors and the open-source community for their invaluable support.
